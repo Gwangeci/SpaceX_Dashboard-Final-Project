@@ -6,4 +6,4 @@ This repository contains my completed IBM Skills Lab exercise for creating a Spa
 
 - `spacex_dash_exercise.ipynb` – Completed Skills Lab notebook
 - `spacex_launch_dash.csv` – Launch data used in the exercise
-- `screenshots/` – Optional: screenshots of the dashboard
+- `screenshots-Some screenshots of the dashboard
